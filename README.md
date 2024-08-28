@@ -4,7 +4,7 @@
 
  - [Project website]()
  - [Arduino code examples]( )
- - [1×3 flip-disc display schematic]( )
+ - [2x6 flip-disc display schematic]( )
  - [Flip-disc specification](https://github.com/marcinsaj/Flipo-Flip-disc-Display-Specification/raw/main/datasheet/Flipo-Flip-Disc-Specification.pdf)
  - [Display pinout]( )
  - [Display dimensions]( )
