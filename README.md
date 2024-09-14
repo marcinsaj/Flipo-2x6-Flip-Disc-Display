@@ -11,8 +11,10 @@
  - [Connection diagram with the Pulse Shaper Power Supply Module – #1 Display](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/raw/main/datasheet/Flip-disc-2x6-Display-Arduino-Example-Connection-with-Pulse-Shaper-Schematic-01.pdf)
  - [Connection diagram with the Pulse Shaper Power Supply Module – #2 Displays](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/raw/main/datasheet/Flip-disc-2x6-Display-Arduino-Example-Connection-with-Pulse-Shaper-Schematic-02.pdf)
 
-<img src="https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/blob/main/extras/Flip-disc-2x6-Display-Pinout.png">
-<img src="https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/blob/main/extras/Flip-disc-2x6-Display-Dimensions.png">
-<img src="https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/blob/main/extras/bottom-2x6-flip-disc-display-pcb.png">
-<img src="https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/blob/main/extras/top-2x6-flip-disc-display-pcb.png">
-
+![2x6 Flip-disc Display](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/blob/main/extras/flipo-2x6-flip-disc-display-project-github_01.webp)
+![2x6 Flip-disc Display](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/blob/main/extras/flipo-2x6-flip-disc-display-project-github_02.webp)
+![2x6 Flip-disc Display](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/blob/main/extras/flipo-2x6-flip-disc-display-project-github_03.webp)
+![2x6 Flip-disc Display](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/blob/main/extras/Flip-disc-2x6-Display-Pinout.png)
+![2x6 Flip-disc Display](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/blob/main/extras/Flip-disc-2x6-Display-Dimensions.png)
+![2x6 Flip-disc Display](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/blob/main/extras/bottom-2x6-flip-disc-display-pcb.png)
+![2x6 Flip-disc Display](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/blob/main/extras/top-2x6-flip-disc-display-pcb.png)
