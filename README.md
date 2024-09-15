@@ -16,7 +16,7 @@
 
 > [!NOTE]
 > The display was designed specifically for use in a binary clock. Two rows for displaying hours and minutes.
-> - [Binary Clock Project repository](https://github.com/marcinsaj/Flipo-Binary-Clock-2x6-Flip-Disc-Display)
+> - [Binary clock project repository](https://github.com/marcinsaj/Flipo-Binary-Clock-2x6-Flip-Disc-Display)
 > - Project website - in development
 
    
