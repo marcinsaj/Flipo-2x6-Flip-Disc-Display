@@ -3,7 +3,7 @@
 </br>
 
  - [Project website](https://flipo.io/project/2x6-flip-disc-display/)
- - [youtube video #1]()
+ - [youtube video #1](https://youtu.be/S0HpXiDnWuE)
  - [youtube video #2]()
  - [Arduino code example](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/blob/main/examples/01-1x2x6-flip-disc-arduino-psps.ino)
  - [2x6 flip-disc display schematic](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/raw/main/datasheet/Flip-disc-2x6-Display-Schematic.pdf)
