@@ -13,12 +13,12 @@
  - [Connection diagram with the Pulse Shaper Power Supply Module – #1 Display](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/raw/main/datasheet/Flip-disc-2x6-Display-Arduino-Example-Connection-with-Pulse-Shaper-Schematic-01.pdf)
  - [Connection diagram with the Pulse Shaper Power Supply Module – #2 Displays](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/raw/main/datasheet/Flip-disc-2x6-Display-Arduino-Example-Connection-with-Pulse-Shaper-Schematic-02.pdf)
 
-
+---
 > [!NOTE]
 > The display was designed specifically for use in a binary clock. Two rows for displaying hours and minutes.
 > - [Binary clock project repository](https://github.com/marcinsaj/Flipo-Binary-Clock-2x6-Flip-Disc-Display)
 > - Project website - in development
-
+---
    
 
 ![2x6 Flip-disc Display](https://github.com/marcinsaj/Flipo-2x6-Flip-Disc-Display/blob/main/extras/flipo-2x6-flip-disc-display-project-github_01.webp)
